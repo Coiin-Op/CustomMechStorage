@@ -1,0 +1,9 @@
+{
+  "Name": "CustomMechStorage",
+  "Enabled": true,
+  "Version": "1.0.0",
+  "Description": "Preserves exact assembled BattleMech loadouts when stored.",
+  "Author": "Scott",
+  "DLL": "CustomMechStorage.dll",
+  "DLLEntryPoint": "CustomMechStorage.CustomMechStorageMod.Init"
+}
